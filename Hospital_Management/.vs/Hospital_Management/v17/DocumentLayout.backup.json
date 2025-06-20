@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|c:\\users\\himsomealea\\source\\repos\\hospital_management\\hospital_management\\uctreatmentplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\uctreatmentplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|c:\\users\\himsomealea\\source\\repos\\hospital_management\\hospital_management\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\hospital_management\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\hospital_management\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\hospital_management\\ucconsultationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\ucconsultationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\hospital_management\\ucstaffinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\ucstaffinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\hospital_management\\ucadmissioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\ucadmissioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\hospital_management\\ucconsultationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\ucconsultationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\hospital_management\\ucappointmentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\ucappointmentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\hospital_management\\usdoctorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\usdoctorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\hospital_management\\ucpatientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\ucpatientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\hospital_management\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E237EFC6-9725-4686-AEF5-7DF91C43B836}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\App.config",
+              "RelativeDocumentMoniker": "Hospital_Management\\App.config",
+              "ToolTip": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\App.config",
+              "RelativeToolTip": "Hospital_Management\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-17T12:36:08.084Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ucTreatmentPlan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\ucTreatmentPlan.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\ucTreatmentPlan.cs",
+              "ToolTip": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\ucTreatmentPlan.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\ucTreatmentPlan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:05:54.915Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:57:29.056Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ucConsultationInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\ucConsultationInfo.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\ucConsultationInfo.cs",
+              "ToolTip": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\ucConsultationInfo.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\ucConsultationInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:16:40.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\Dashboard.cs",
+              "RelativeToolTip": "Hospital_Management\\Dashboard.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwEQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:46:08.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T04:57:15.384Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ucStaffInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\ucStaffInfo.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\ucStaffInfo.cs",
+              "ToolTip": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\ucStaffInfo.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\ucStaffInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:17:19.914Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ucAdmissionInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\ucAdmissionInfo.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\ucAdmissionInfo.cs",
+              "ToolTip": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\ucAdmissionInfo.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\ucAdmissionInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:30:35.397Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ucConsultationInfo.cs",
+              "DocumentMoniker": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\ucConsultationInfo.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\ucConsultationInfo.cs",
+              "ToolTip": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\ucConsultationInfo.cs",
+              "RelativeToolTip": "Hospital_Management\\ucConsultationInfo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA7wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:13:12.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "usDoctorInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\usDoctorInfo.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\usDoctorInfo.cs",
+              "ToolTip": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\usDoctorInfo.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\usDoctorInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:17:22.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ucPatientInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\ucPatientInfo.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\ucPatientInfo.cs",
+              "ToolTip": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\ucPatientInfo.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\ucPatientInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:17:18.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ucAppointmentInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\ucAppointmentInfo.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\ucAppointmentInfo.cs",
+              "ToolTip": "C:\\Users\\HIMSOMEALEA\\source\\repos\\Hospital_Management\\Hospital_Management\\ucAppointmentInfo.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\ucAppointmentInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:17:13.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
